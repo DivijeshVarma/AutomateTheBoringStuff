@@ -131,3 +131,6 @@ dmypy.json
 # json settings
 # .vscode/
 .vscode
+
+# ignore practice
+practice
