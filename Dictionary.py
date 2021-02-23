@@ -68,3 +68,8 @@ pprint.pprint(count)
 
 text = pprint.pformat(count)
 print(text)
+
+print(type(43))
+print(type(4.3))
+print(type('hello'))
+print(type(count))
